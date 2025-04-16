@@ -3,7 +3,7 @@
 	"id": "alexanders-useless-stuff",
 	"version": "1.0.0",
 	"name": "Alexander's Useless Stuff",
-	"description": "A mod with useless stuff!",
+	"description": "This is my first mod, and it adds many useless items and features!",
 	"authors": [
 		"Alexander499"
 	],
@@ -35,6 +35,6 @@
 		"fabric-api": "*"
 	},
 	"suggests": {
-		"another-mod": "*"
+		"another-mod": "*",
 	}
 }

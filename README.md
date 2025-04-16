@@ -1,6 +1,6 @@
 # Alexanders-Useless-Stuff
 ![image](src/main/resources/assets/alexanders-useless-stuff/icon.png)
-This is my first mod, and it adds many useless items and features!
+This is my first mod <img src="https://hackcraft.hackclub.com/images/dancing_parrot.gif" width="48">, and it adds many useless items and features!
 
 ## Features
 [Showcase Video](https://youtube.com/null)
@@ -17,7 +17,9 @@ A leather and paper mix. You can write text on it when right-clicking.
 - **Pocket Watch**\
 A smaller clock. Displays the current in-game time when right-clicking.
 - **Baguette**\
-A long _french_ bread. Gives you 6 hunger units (<img src='https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c4/Hunger_%28icon%29.png' width='12'>x3). Has an attack damage of 6 (<img src='https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/06/Heart_%28icon%29.png' width='12'>x3).
+A long _french_ bread.
+Gives you 6 hunger units (<img src='https://static.wikia.nocookie.net/minecraft_gamepedia/images/c/c4/Hunger_%28icon%29.png' width='12'>x3).
+Has an attack damage of 6 (<img src='https://static.wikia.nocookie.net/minecraft_gamepedia/images/0/06/Heart_%28icon%29.png' width='12'>x3).
 - **Feather of Jumping**\
 A fancy blue feather. Gives you an upwards velocity of 1.0 when right-clicking. Has a cooldown of 40 ticks after right-clicking.
 - **Magnet**\
