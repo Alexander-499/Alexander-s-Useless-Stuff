@@ -1,6 +1,6 @@
 # Alexanders-Useless-Stuff
 ![image](src/main/resources/assets/alexanders-useless-stuff/icon.png)
-This is my first mod and it adds many useless items and features!
+This is my first mod, and it adds many useless items and features!
 
 ## Features
 [Showcase Video](https://youtube.com/null)
