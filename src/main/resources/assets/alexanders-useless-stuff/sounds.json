@@ -1,0 +1,11 @@
+{
+  "magnet_pull": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "alexanders-useless-stuff:magnet_pull",
+        "stream": false
+      }
+    ]
+  }
+}

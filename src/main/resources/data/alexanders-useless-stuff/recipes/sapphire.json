@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    { "item": "minecraft:lapis_lazuli" },
+    { "item": "minecraft:diamond" }
+  ],
+  "result": {
+    "item": "alexanders-useless-stuff:sapphire",
+    "count": 3
+  }
+}

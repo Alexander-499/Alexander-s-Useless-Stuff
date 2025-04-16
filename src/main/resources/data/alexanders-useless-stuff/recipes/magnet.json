@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IEI",
+    "I I",
+    "R L"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "R": { "item": "minecraft:redstone" },
+    "L": { "item": "minecraft:lapis_lazuli" },
+    "E": { "item": "minecraft:ender_pearl" }
+  },
+  "result": {
+    "item": "alexanders-useless-stuff:magnet",
+    "count": 1
+  }
+}

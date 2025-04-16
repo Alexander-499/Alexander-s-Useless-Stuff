@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    { "item": "minecraft:feather" },
+    { "item": "minecraft:milk_bucket" }
+  ],
+  "result": {
+    "item": "alexanders-useless-stuff:jump_feather",
+    "count": 1
+  }
+}

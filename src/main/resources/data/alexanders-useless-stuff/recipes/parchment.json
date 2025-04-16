@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    { "item": "minecraft:paper" },
+    { "item": "minecraft:leather" }
+  ],
+  "result": {
+    "item": "alexanders-useless-stuff:parchment",
+    "count": 1
+  }
+}

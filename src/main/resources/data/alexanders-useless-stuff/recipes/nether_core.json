@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " o ",
+    "ono",
+    " o "
+  ],
+  "key": {
+    "o": { "item": "minecraft:obsidian" },
+    "n": { "item": "minecraft:nether_star" }
+  },
+  "result": {
+    "item": "alexanders-useless-stuff:nether_core"
+  }
+}

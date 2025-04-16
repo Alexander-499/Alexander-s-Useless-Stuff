@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "alexanders-useless-stuff",
+	"version": "1.0.0",
+	"name": "Alexander's Useless Stuff",
+	"description": "A mod with useless stuff!",
+	"authors": [
+		"Alexander499"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/alexanders-useless-stuff/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.alexander499.uselessstuff.AlexandersUselessStuff"
+		],
+		"client": [
+			"net.alexander499.uselessstuff.ClientInit"
+		],
+		"fabric-datagen": [
+			"net.alexander499.uselessstuff.AlexandersUselessStuffDataGenerator"
+		]
+	},
+	"mixins": [
+		"alexanders-useless-stuff.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.13",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
