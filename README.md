@@ -1,4 +1,4 @@
-# Alexanders-Useless-Stuff
+# Alexander's Useless Stuff
 ![image](src/main/resources/assets/alexanders-useless-stuff/icon.png)
 This is my first mod <img src="https://hackcraft.hackclub.com/images/dancing_parrot.webp" width="48">, and it adds many useless items and features!
 
